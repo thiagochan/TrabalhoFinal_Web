@@ -1,0 +1,21 @@
+.input 
+{
+    width: 50px;
+    height: 25;
+}
+td[name=cabecalho]
+{
+    background-color: #fae599;
+}
+.notaAzul
+{
+    background-color: #5578f8;
+}
+.notaVermelha
+{
+    background-color: #fa463a;
+}
+button[name=calcmedia]
+{
+    margin-left: 747px;
+}
